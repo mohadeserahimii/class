@@ -6,3 +6,4 @@ online rcjsoccersim
 - saturdays
 - wednsdays
 # webotsR2023b
+[vscode](https://code.visualstudio.com/download)

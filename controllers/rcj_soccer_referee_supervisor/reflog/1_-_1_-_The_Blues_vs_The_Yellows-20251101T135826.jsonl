@@ -1,0 +1,78 @@
+{"datetime": "2025-11-01T13:58:26.180932Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T13:58:26.230731Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2025-11-01T13:58:45.211195Z", "matchtime": 17.856000000021822, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T13:58:55.854986Z", "matchtime": 28.28800000003457, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2025-11-01T13:58:58.961220Z", "matchtime": 31.296000000038248, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T13:59:14.216909Z", "matchtime": 46.33600000005663, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2025-11-01T13:59:17.030985Z", "matchtime": 49.08800000005999, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T13:59:17.241011Z", "matchtime": 49.28000000006023, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T13:59:31.685040Z", "matchtime": 63.55200000007767, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2025-11-01T13:59:33.650879Z", "matchtime": 65.50400000008005, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2025-11-01T13:59:34.770802Z", "matchtime": 66.59200000008138, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T13:59:40.871656Z", "matchtime": 72.32000000008838, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2025-11-01T13:59:44.085068Z", "matchtime": 75.32800000009206, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2025-11-01T13:59:58.860826Z", "matchtime": 89.40800000010671, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2025-11-01T14:00:02.843364Z", "matchtime": 93.24800000010458, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T14:00:02.907223Z", "matchtime": 93.31200000010455, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2025-11-01T14:00:03.650872Z", "matchtime": 93.98400000010417, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2025-11-01T14:00:06.803051Z", "matchtime": 96.99200000010251, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T14:00:21.336281Z", "matchtime": 110.88000000009481, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2025-11-01T14:00:24.534439Z", "matchtime": 113.98400000009309, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:00:27.759338Z", "matchtime": 117.08800000009137, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T14:00:43.055681Z", "matchtime": 131.74400000008325, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2025-11-01T14:00:44.449229Z", "matchtime": 133.0880000000825, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2025-11-01T14:01:00.085175Z", "matchtime": 148.12800000007417, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2025-11-01T14:01:09.260958Z", "matchtime": 156.8960000000693, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:01:11.766029Z", "matchtime": 159.29600000006798, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2025-11-01T14:01:12.568276Z", "matchtime": 160.06400000006755, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2025-11-01T14:01:15.724267Z", "matchtime": 163.07200000006588, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T14:01:33.769343Z", "matchtime": 180.28800000005634, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:01:46.513173Z", "matchtime": 192.48000000004959, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 1, "score_blue": 4}}
+{"datetime": "2025-11-01T14:01:49.687020Z", "matchtime": 195.48800000004792, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T14:02:07.798386Z", "matchtime": 213.0240000000382, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T14:02:08.244301Z", "matchtime": 213.44000000003797, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2025-11-01T14:02:08.276098Z", "matchtime": 213.47200000003795, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:02:26.061287Z", "matchtime": 230.56000000002848, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T14:02:26.388266Z", "matchtime": 230.8800000000283, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2025-11-01T14:02:27.969591Z", "matchtime": 232.38400000002747, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2025-11-01T14:02:28.496544Z", "matchtime": 232.8960000000272, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:02:47.085274Z", "matchtime": 250.68800000001733, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:02:47.153685Z", "matchtime": 250.7520000000173, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2025-11-01T14:03:14.622624Z", "matchtime": 277.15200000000266, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T14:03:20.645281Z", "matchtime": 282.94399999999945, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:03:21.446407Z", "matchtime": 283.711999999999, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 2, "score_blue": 4}}
+{"datetime": "2025-11-01T14:03:24.574777Z", "matchtime": 286.71999999999736, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2025-11-01T14:03:54.977074Z", "matchtime": 315.74399999998127, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2025-11-01T14:03:55.769392Z", "matchtime": 316.47999999998086, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:03:55.774025Z", "matchtime": 316.47999999998086, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2025-11-01T14:03:55.808278Z", "matchtime": 316.51199999998084, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2025-11-01T14:03:57.065970Z", "matchtime": 317.72799999998017, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T14:04:25.252387Z", "matchtime": 344.8319999999659, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 2, "score_blue": 5}}
+{"datetime": "2025-11-01T14:04:28.393429Z", "matchtime": 347.8399999999669, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T14:04:40.676028Z", "matchtime": 359.67999999997085, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 2, "score_blue": 6}}
+{"datetime": "2025-11-01T14:04:43.784325Z", "matchtime": 362.68799999997185, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T14:05:02.182993Z", "matchtime": 380.35199999997775, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T14:05:02.832882Z", "matchtime": 380.99199999997796, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 2, "score_blue": 7}}
+{"datetime": "2025-11-01T14:05:05.997381Z", "matchtime": 383.99999999997897, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T14:05:17.936147Z", "matchtime": 395.4239999999828, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 2, "score_blue": 8}}
+{"datetime": "2025-11-01T14:05:21.111220Z", "matchtime": 398.43199999998376, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T14:05:31.863933Z", "matchtime": 408.73599999998726, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 2, "score_blue": 9}}
+{"datetime": "2025-11-01T14:05:34.938388Z", "matchtime": 411.7439999999882, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T14:06:03.537915Z", "matchtime": 439.13599999999735, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:06:11.264179Z", "matchtime": 446.55999999999983, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 2, "score_blue": 10}}
+{"datetime": "2025-11-01T14:06:14.371974Z", "matchtime": 449.5680000000009, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T14:06:30.048802Z", "matchtime": 464.60800000000586, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2025-11-01T14:06:53.316965Z", "matchtime": 486.8480000000067, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 3, "score_blue": 10}}
+{"datetime": "2025-11-01T14:06:56.460137Z", "matchtime": 489.85600000000636, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2025-11-01T14:07:12.044637Z", "matchtime": 504.89600000000473, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2025-11-01T14:07:15.230199Z", "matchtime": 507.9680000000044, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:07:25.206405Z", "matchtime": 517.5360000000034, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T14:07:33.308676Z", "matchtime": 525.2800000000025, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:07:33.910963Z", "matchtime": 525.8560000000024, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2025-11-01T14:07:48.256917Z", "matchtime": 539.6160000000009, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2025-11-01T14:07:49.541372Z", "matchtime": 540.8960000000008, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2025-11-01T14:07:51.783235Z", "matchtime": 543.0720000000006, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T14:08:03.770146Z", "matchtime": 554.5279999999992, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 4, "score_blue": 10}}
+{"datetime": "2025-11-01T14:08:06.884991Z", "matchtime": 557.5359999999989, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2025-11-01T14:08:18.202011Z", "matchtime": 568.4799999999977, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 5, "score_blue": 10}}
+{"datetime": "2025-11-01T14:08:21.376876Z", "matchtime": 571.4879999999978, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}

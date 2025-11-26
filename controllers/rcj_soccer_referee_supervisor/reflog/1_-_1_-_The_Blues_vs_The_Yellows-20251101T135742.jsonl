@@ -1,0 +1,7 @@
+{"datetime": "2025-11-01T13:57:42.564315Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2025-11-01T13:57:42.606115Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2025-11-01T13:58:01.661019Z", "matchtime": 17.472000000021353, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2025-11-01T13:58:01.791864Z", "matchtime": 17.60000000002151, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-11-01T13:58:11.831133Z", "matchtime": 27.552000000033672, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2025-11-01T13:58:20.480869Z", "matchtime": 35.61600000004353, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2025-11-01T13:58:23.617706Z", "matchtime": 38.624000000047204, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}

@@ -1,0 +1,13 @@
+{"datetime": "2025-10-15T14:17:32.576965Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2025-10-15T14:17:32.587024Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2025-10-15T14:17:42.968432Z", "matchtime": 9.984000000012202, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2025-10-15T14:17:46.153133Z", "matchtime": 12.992000000015878, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2025-10-15T14:18:02.007342Z", "matchtime": 28.03200000003426, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-10-15T14:18:02.007342Z", "matchtime": 28.03200000003426, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2025-10-15T14:18:02.007342Z", "matchtime": 28.03200000003426, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2025-10-15T14:18:17.877485Z", "matchtime": 43.07200000005264, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2025-10-15T14:18:17.877485Z", "matchtime": 43.07200000005264, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2025-10-15T14:18:19.267061Z", "matchtime": 44.44800000005432, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2025-10-15T14:18:38.837436Z", "matchtime": 58.11200000007102, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2025-10-15T14:18:38.837436Z", "matchtime": 58.11200000007102, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2025-10-15T14:18:42.968228Z", "matchtime": 62.04800000007583, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
